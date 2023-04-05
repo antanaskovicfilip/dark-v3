@@ -21,7 +21,7 @@ Languages supported so far:
 ## How to install
 1. Clone the repository into your `.vscode/extensions/` folder;
 ```sh
-git clone https://github.com/antanaskovicfilip/dark--v3.git ~/.vscode/extensions
+git clone https://github.com/antanaskovicfilip/dark-v3.git ~/.vscode/extensions
 ```
 2. If VSCode is running, terminate it and start it again. The theme should be listed both in the Extentions category and drop down panel, when you enter the theme shortcut.
 
