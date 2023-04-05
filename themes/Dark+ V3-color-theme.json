@@ -1862,7 +1862,7 @@
     },
     {
       "name": "keyword.control{continue,break}",
-      "scope": "keyword.control.continue.cpp,keyword.control.break.cpp",
+      "scope": "keyword.control.continue.cpp,keyword.control.break.cpp,keyword.control.throw.cpp,keyword.control.catch.cpp",
       "settings": {
         "fontStyle": "bold italic"
       }
