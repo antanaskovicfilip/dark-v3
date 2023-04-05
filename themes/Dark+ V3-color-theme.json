@@ -1921,6 +1921,7 @@
       "name": "include names",
       "scope": "string.quoted.other.lt-gt.include.cpp",
       "settings": {
+        "foreground": "#74c2c6",
         "fontStyle": "bold"
       }
     },
