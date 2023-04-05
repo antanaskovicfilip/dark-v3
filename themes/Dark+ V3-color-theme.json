@@ -1861,6 +1861,13 @@
       }
     },
     {
+      "name": "keyword.control{continue,break}",
+      "scope": "keyword.control.continue.cpp,keyword.control.break.cpp",
+      "settings": {
+        "fontStyle": "bold italic"
+      }
+    },
+    {
       "name": "meta.body.definition",
       "scope": "variable.other.global.cpp",
       "settings": {
