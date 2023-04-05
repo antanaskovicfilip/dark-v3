@@ -1946,6 +1946,13 @@
       "settings": {
         "fontStyle": "italic"
       }
+    },
+    {
+      "name": "entity.name.type.cpp",
+      "scope": "entity.name.type.cpp",
+      "settings": {
+        "fontStyle": "bold"
+      }
     }
     // CPP END ##########################3
     // C BEGIN
