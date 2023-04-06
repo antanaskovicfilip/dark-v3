@@ -1921,7 +1921,7 @@
       "name": "include names",
       "scope": "string.quoted.other.lt-gt.include.cpp",
       "settings": {
-        "foreground": "#74c2c6",
+        "foreground": "#caebed",
         "fontStyle": "bold"
       }
     },
@@ -1953,6 +1953,13 @@
       "scope": "entity.name.type.cpp",
       "settings": {
         "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "true, false",
+      "scope": "constant.language.false.cpp,constant.language.true.cpp",
+      "settings":{
+        "fontStyle": "italic"
       }
     }
     // CPP END ##########################3
