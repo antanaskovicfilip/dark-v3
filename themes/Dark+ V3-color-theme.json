@@ -1905,9 +1905,17 @@
     },
     {
       "name": "operators",
-      "scope": "keyword.operator.comparison.cpp,keyword.operator.assignment.cpp,keyword.operator.assignment.compound.cpp,entity.name.function.operator.member.cpp,entity.name.function.operator.cpp,keyword.operator.ternary.cpp",
+      "scope": "keyword.operator.comparison.cpp,keyword.operator.assignment.cpp,keyword.operator.assignment.compound.cpp,entity.name.function.operator.member.cpp,entity.name.function.operator.cpp",
       "settings": {
         "foreground": "#cccccc",
+      }
+    },
+    {
+      "name": "ternary.operator.cpp",
+      "scope": "keyword.operator.ternary.cpp",
+      "settings": {
+        "foreground": "#af9bea",
+        "fontStyle": "bold"
       }
     },
     {
@@ -2036,13 +2044,13 @@
     "inputOption.activeBackground": "#7a3e7287",
     "inputOption.activeBorder": "#007acc00",
     "inputOption.activeForeground": "#ffffff",
-    "input.placeholderForeground": "#a6a6a6",
+    "input.placeholderForeground": "#4c5153",
     "textLink.foreground": "#7a3e72",
     "editor.background": "#202020",
     "editor.foreground": "#e6e6e6",
     "editorLineNumber.foreground": "#858585",
-    "editorCursor.foreground": "#ffff00",
-    "editorCursor.background": "#000000",
+    "editorCursor.foreground": "#00ffee",
+    "editorCursor.background": "#434343",
     "editor.selectionBackground": "#7a3e7289",
     "editor.inactiveSelectionBackground": "#3a3d41",
     "editorWhitespace.foreground": "#e3e4e229",
@@ -2099,8 +2107,8 @@
     "badge.foreground": "#ffffff",
     "terminal.foreground": "#cccccc",
     "terminal.selectionBackground": "#ffffff40",
-    "terminalCursor.background": "#7a3e72",
-    "terminalCursor.foreground": "#ffffff",
+    "terminalCursor.background": "#434343",
+    "terminalCursor.foreground": "#00ffee",
     "terminal.border": "#80808059",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#2472c8",
