@@ -1969,8 +1969,16 @@
       "settings":{
         "fontStyle": "italic"
       }
+    },
+    {
+      "name": "comment.block.cpp",
+      "scope": "comment.block.cpp,punctuation.definition.comment.end.cpp,punctuation.definition.comment.begin.cpp",
+      "settings": {
+         "foreground": "#5c5c5c",
+         "fontStyle": ""
+      }
     }
-    // CPP END ##########################3
+    // CPP END ##########################
     // C BEGIN
     // C END
     // PY BEGIN
