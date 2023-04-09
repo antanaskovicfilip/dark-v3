@@ -9,13 +9,13 @@ Feel free to fork the repository and make it your own.
 <br><Br>
 Languages supported so far:
 
-| Language | Support |
-|----------|---------|
-| C++ | **Partial** |
-| C | **None** |
-| Python | **None** |
-| JavaScript | **None** |
-| | |
+| Language   | Support     |
+|------------|-------------|
+| C++        | **Partial** |
+| C          | **Partial** |
+| Python     | **None**    |
+| JavaScript | **None**    |
+|            |             |
 
 ---
 ## How to install
