@@ -1,5 +1,6 @@
 # Dark+ V3 theme for Visual Studio Code
-It's a personal upgrade for the Dark+ V2 Experimental theme from VSCode.
+~It's a personal upgrade for the Dark+ V2 Experimental theme from VSCode.~ <br>
+It started as a personal upgrade for the Dark+ V2 Experimental theme from VSCode, but has become everything but.
 
 ---
 ## Per lanugage syntax
