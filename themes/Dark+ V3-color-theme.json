@@ -1941,7 +1941,7 @@
     },
     {
       "name": "separator.scope-resolution",
-      "scope": "punctuation.separator.scope-resolution.cpp",
+      "scope": "punctuation.separator.scope-resolution.cpp, punctuation.separator.scope-resolution.parameter.cpp",
       "settings": {
         "foreground": "#777777",
       //   "fontStyle": "italic"
