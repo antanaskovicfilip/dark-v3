@@ -1985,6 +1985,14 @@
          "fontStyle": ""
       }
     },
+    {
+      "name":"global variable",
+      "scope":"variable.other.global.cpp",
+      "settings": {
+         "foreground": "#688168",
+         "fontStyle": "bold"
+      }
+    },
     // CPP END ##########################
     // C BEGIN ##########################
     {
