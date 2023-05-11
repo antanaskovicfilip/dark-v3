@@ -3,7 +3,7 @@
 It started as a personal upgrade for the Dark+ V2 Experimental theme from VSCode, but has become everything but.
 
 ---
-## Per lanugage syntax
+## Per language syntax
 Per language customization is missing; as of writing, I've only customized a few things for C++, because I was using it at the time. <br> More custimizations for C++ will come when the need arises. <br> More language support will come when I use those languages.
 <br><br>
 Feel free to fork the repository and make it your own.
@@ -15,7 +15,7 @@ Languages supported so far:
 | C++        | **Partial** |
 | C          | **Partial** |
 | Python     | **None**    |
-| JavaScript | **None**    |
+| JavaScript | **Partial**    |
 |            |             |
 
 ---
