@@ -2187,19 +2187,27 @@
     },
     {
       "name": "strings",
-      "scope": "string.quoted.double.js, string.quoted.single.js, punctuation.definition.string.begin.js, punctuation.definition.string.end.js, string.template.js",
+      "scope": "string.quoted.double.js, string.quoted.single.js, punctuation.definition.string.begin.js, punctuation.definition.string.end.js",
       "settings": {
          // "foreground": "#788491"
          "fontStyle": "bold"
       }
     },
     {
+        "name":"string.template.js",
+        "scope":"string.template.js",
+        "settings": {
+            "foreground": "#a2b3c3",
+            "fontStyle": "bold"
+        }
+    },
+    {
       "name":"support.variable.property",
       "scope":"support.variable.property, variable.other.property.js",
       "settings": {
-        //  "foreground": "#cedeba",
-        // "foreground": "#bac6de",
-        "foreground": "#eae2b8",
+        // "foreground": "#eae2b8",
+        // "foreground": "#eab771",
+        "foreground": "#f2ca91",
          "fontStyle": "italic"
       }
     },
@@ -2210,6 +2218,21 @@
          "foreground": "#f0ffe6",
          "fontStyle": "bold"
       }
+    },
+    {
+        "name": "keyword.control.trycatch.js",
+        "scope": "keyword.control.trycatch.js",
+        "settings": {
+            "foreground": "#99ddff",
+            "fontStyle": "italic"
+        }
+    },
+    {
+        "name": "punctuation",
+        "scope":"punctuation.accessor.js,punctuation.separator.parameter.js,punctuation.separator.comma.js,punctuation.separator.key-value.js",
+        "settings": {
+            "fontStyle": "bold"
+        }
     },
     // JavaScript END
     
